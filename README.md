@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @negatywny-comfo
-- 🛡️ The projects I create: SafeClient
-- 📫 Discord: ``comfo.cc#0001``
+- 🛡️ The projects I create: ...
+- 📫 Discord: ``comfo.cc#6387``
